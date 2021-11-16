@@ -10,6 +10,10 @@ A movie website which gives trending movies and tv series!A mini entertainment h
 - REACT JS
 - MATERIAL UI
 
+## Api used
+
+- [TMDB API](https://www.themoviedb.org/)
+
 ## Available Scripts
 
 In the project directory, you can run:
